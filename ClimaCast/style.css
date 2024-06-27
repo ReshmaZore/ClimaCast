@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Nunito', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 222, 205);
+
+}
+.title{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+    color:rgb(71, 5, 59);
+}
+
+.card {
+    width: 90%;
+    max-width: 490px;
+    background: linear-gradient(109.6deg, rgb(84, 13, 110) 11.2%, rgb(238, 66, 102) 100.2%);
+    color: #ffffff; /* Adjust text color as needed */
+    margin: 50px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+}
+.error img{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    height: 270px;
+    width: 400px;
+    border-radius: 20px;
+
+}
+.error p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container {
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-direction {
+    align-content: center;
+    justify-items: left;
+}
+
+.search {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.search input {
+    border: 0;
+    outline: 0;
+    background: #ebffce;
+    color: #555;
+    padding: 10px 25px;
+    height: 60px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 16px;
+    font-size: 18px;
+}
+
+.search button {
+    height: 55px;
+    width: 55px;
+    border-radius: 40px;
+    background-color: #ebffce;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+}
+
+.search button img {
+    height: 18px;
+    flex: 1;
+}
+
+.weather-icon {
+    width: 170px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.weather h1 {
+    font-size: 70px;
+    font-weight: 545;
+}
+
+.weather h2 {
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: -10px;
+}
+
+.weather-details {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
+
+.details {
+    text-align: center;
+    padding: 10px;
+}
+
+.details img {
+    width: 50px; 
+    height: auto; 
+}
+
+.details p {
+    margin: 5px 0;
+}
+
+.humidity {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.wind {
+    font-size: 24px;
+    font-weight: bold;
+}
+.col img{
+    width:50px;
+    height:auto;
+}
+.weather{
+    display:none;
+}
+.error{
+    text-align:left;
+    margin-left:10px;
+    font-size:14px;
+    margin-top:10px;
+    display:none;
+}
