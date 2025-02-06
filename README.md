@@ -30,8 +30,6 @@ Clima is derived from the Greek word "klima," meaning climate or region and Cast
    ```
 3. Open `index.html` in your browser.
 
-## 🌐 Live Demo
-[Click here to view the live project](your-deployed-link)
 
 ## 📌 Usage
 1. Enter a city or country name in the search box.
