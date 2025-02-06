@@ -55,4 +55,4 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Connect with Me
 - GitHub: [ReshmaZore](https://github.com/ReshmaZore)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reshma-zore-8a250b269/)
+- LinkedIn: [ReshmaZore](https://www.linkedin.com/in/reshma-zore-8a250b269/)
